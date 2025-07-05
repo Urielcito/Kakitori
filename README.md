@@ -34,7 +34,8 @@ In active development, feedback and PR's are welcome.
 
 ## Development process
 
-I'm documenting the development process iteratively (with each commit)! Go check the [changelog](CHANGELOG.md). Also check the Issues, it's where I'll document a simple to-do list.
+- [Changelog](CHANGELOG.md)
+- [To-Do](https://github.com/Urielcito/Kakitori/issues)
 
 ## Inspiration and references
 
