@@ -10,23 +10,23 @@ It allows:
 
 ## Stack and Design Model
 
-|`C#` | Backend |
-| `WPF` | User Interface |
-| `SQLite` | Database |
-| `Tesseract OCR` | Japanese text recognition |
-| `Azure TTS` | Text to Speech |
-| `MVVM` | Design Model |
+- `C#`, Backend 
+- `WPF`, User Interface
+- `SQLite`, Database 
+- `Tesseract OCR`, Japanese text recognition 
+- `Azure TTS`, Text to Speech 
+- `MVVM`,  Design Model 
 
 ## Roadmap
 
 - [x] Initial structure
-- [] screenshot 
-- [] Integration with Tesseract
-- [] Flashcard creation and modification
-- [] SQLite
-- [] Custom SRS algorithm
-- [] Flashcard study loop
-- [] Export-Import of custom decks to Anki if desired
+- [ ] screenshot 
+- [ ] Integration with Tesseract
+- [ ] Flashcard creation and modification
+- [ ] SQLite
+- [ ] Custom SRS algorithm
+- [ ] Flashcard study loop
+- [ ] Export-Import of custom decks to Anki if desired
 
 In active development, feedback and PR's are welcome.
 
@@ -34,7 +34,7 @@ In active development, feedback and PR's are welcome.
 
 ## Development process
 
-I'm documenting the development process iteratively (with each commit)! Go check the `CHANGELOG.md`. Also check the Issues, it's where I'll document a simple to-do list.
+I'm documenting the development process iteratively (with each commit)! Go check the [changelog](CHANGELOG.md). Also check the Issues, it's where I'll document a simple to-do list.
 
 ## Inspiration and references
 
