@@ -1,7 +1,7 @@
 # Changelog
 
 ## July, 2025
-###22/07
+### 22/07
 - Project rebuilt on .NET 8 (previous was .Net Framework 4.7.2)
 - SQLite package installed
 - Now it's possible to minimize to system tray and open / close from there.
