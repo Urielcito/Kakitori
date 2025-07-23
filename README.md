@@ -20,7 +20,7 @@ It allows:
 ## Roadmap
 
 - [x] Initial structure
-- [ ] screenshot 
+- [x] screenshot 
 - [ ] Integration with Tesseract
 - [ ] Flashcard creation and modification
 - [ ] SQLite

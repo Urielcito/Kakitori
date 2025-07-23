@@ -1,8 +1,11 @@
-﻿using System;
+﻿using KakitoriApp.Services;
+using System;
 using System.ComponentModel;
+using System.Drawing.Drawing2D;
+using System.Drawing.Imaging;
 using System.Windows;
 
-namespace KakitoriApp
+namespace KakitoriApp.View
 {
     public partial class MainWindow : Window
     {
